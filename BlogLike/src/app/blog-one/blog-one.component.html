@@ -1,0 +1,13 @@
+<p [ngStyle]="{'background-color':setColor()}">
+
+    NOM  : {{bg.Nom}}
+    Country : {{bg.Country}}
+    Date : {{bg.Date}} <br>
+
+    <button (click)="Change(true)" >LIKE</button> <button (click)="Change(false)">DISLIKE</button> <br>
+
+    LIKE : {{numLike}}
+    DISLIKE : {{numDislike}}
+
+
+</p>

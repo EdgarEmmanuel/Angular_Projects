@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+p{
+    font-family: 'Mulish', sans-serif;
+    width:700px;
+    border-radius:10px;
+}
+
+
+p button{
+    background:white;
+    font-family: 'Mulish', sans-serif;
+    border: 1px solid black;
+    border-radius:10px;
+    cursor: pointer;
+}
