@@ -1,0 +1,186 @@
+[2020-07-24 18:35:47.057] [exthost] [info] extension host started
+[2020-07-24 18:35:47.183] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2020-07-24 18:35:47.183] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/aaron-bond.better-comments-2.1.0/out/extension
+[2020-07-24 18:35:47.189] [exthost] [info] ExtensionService#_doActivateExtension pucelle.vscode-css-navigation {"startup":false,"extensionId":{"value":"pucelle.vscode-css-navigation","_lower":"pucelle.vscode-css-navigation"},"activationEvent":"onLanguage:plaintext"}
+[2020-07-24 18:35:47.189] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/pucelle.vscode-css-navigation-1.9.0/client/out/extension
+[2020-07-24 18:35:47.255] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-07-24 18:35:47.255] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-07-24 18:35:47.259] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-07-24 18:35:47.260] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-07-24 18:35:47.286] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-24 18:35:47.286] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-07-24 18:35:47.325] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-07-24 18:35:47.325] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-07-24 18:35:47.337] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-07-24 18:35:47.337] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-07-24 18:35:47.340] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-07-24 18:35:47.340] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-07-24 18:35:47.350] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-07-24 18:35:47.350] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-07-24 18:35:47.352] [exthost] [info] ExtensionService#_doActivateExtension Atishay-Jain.All-Autocomplete {"startup":true,"extensionId":{"value":"Atishay-Jain.All-Autocomplete","_lower":"atishay-jain.all-autocomplete"},"activationEvent":"*"}
+[2020-07-24 18:35:47.352] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/atishay-jain.all-autocomplete-0.0.23/dist/extension
+[2020-07-24 18:35:47.354] [exthost] [info] ExtensionService#_doActivateExtension chenxsan.vscode-standardjs {"startup":true,"extensionId":{"value":"chenxsan.vscode-standardjs","_lower":"chenxsan.vscode-standardjs"},"activationEvent":"*"}
+[2020-07-24 18:35:47.354] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/chenxsan.vscode-standardjs-1.3.0/client/out/extension
+[2020-07-24 18:35:47.383] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2020-07-24 18:35:47.383] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/christian-kohler.path-intellisense-2.2.1/out/extension.js
+[2020-07-24 18:35:47.398] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-07-24 18:35:47.398] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-07-24 18:35:47.428] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-07-24 18:35:47.428] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/dbaeumer.vscode-eslint-2.1.8/client/out/extension
+[2020-07-24 18:35:47.447] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2020-07-24 18:35:47.447] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/formulahendry.auto-close-tag-0.5.8/out/src/extension
+[2020-07-24 18:35:47.449] [exthost] [info] ExtensionService#_doActivateExtension hbenl.vscode-test-explorer {"startup":true,"extensionId":{"value":"hbenl.vscode-test-explorer","_lower":"hbenl.vscode-test-explorer"},"activationEvent":"*"}
+[2020-07-24 18:35:47.449] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/hbenl.vscode-test-explorer-2.19.1/out/main.js
+[2020-07-24 18:35:47.467] [exthost] [info] ExtensionService#_doActivateExtension ionutvmi.path-autocomplete {"startup":true,"extensionId":{"value":"ionutvmi.path-autocomplete","_lower":"ionutvmi.path-autocomplete"},"activationEvent":"*"}
+[2020-07-24 18:35:47.467] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/ionutvmi.path-autocomplete-1.15.0/out/src/extension
+[2020-07-24 18:35:47.478] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-07-24 18:35:47.478] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/pkief.material-icon-theme-4.2.0/dist/extension
+[2020-07-24 18:35:47.492] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-07-24 18:35:47.492] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-07-24 18:35:47.804] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2020-07-24 18:35:47.804] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/streetsidesoftware.code-spell-checker-1.9.0/dist/extension
+[2020-07-24 18:35:47.836] [exthost] [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode {"startup":true,"extensionId":{"value":"TabNine.tabnine-vscode","_lower":"tabnine.tabnine-vscode"},"activationEvent":"*"}
+[2020-07-24 18:35:47.836] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/tabnine.tabnine-vscode-2.8.11/out/extension
+[2020-07-24 18:35:47.850] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"extensionId":{"value":"Zignd.html-css-class-completion","_lower":"zignd.html-css-class-completion"},"activationEvent":"*"}
+[2020-07-24 18:35:47.850] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2020-07-24 18:35:48.118] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-07-24 18:35:48.118] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2020-07-24 18:35:48.126] [exthost] [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one {"startup":true,"extensionId":{"value":"yzhang.markdown-all-in-one","_lower":"yzhang.markdown-all-in-one"},"activationEvent":"workspaceContains:README.md"}
+[2020-07-24 18:35:48.126] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/yzhang.markdown-all-in-one-3.1.0/dist/extension
+[2020-07-24 18:35:48.716] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2020-07-24 18:35:48.716] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-07-24 18:35:48.733] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2020-07-24 18:35:48.733] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/markdown-language-features/dist/extension
+[2020-07-24 18:35:48.782] [exthost] [info] ExtensionService#_doActivateExtension hnw.vscode-auto-open-markdown-preview {"startup":false,"extensionId":{"value":"hnw.vscode-auto-open-markdown-preview","_lower":"hnw.vscode-auto-open-markdown-preview"},"activationEvent":"onLanguage:markdown"}
+[2020-07-24 18:35:48.782] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/hnw.vscode-auto-open-markdown-preview-0.0.4/out/src/extension
+[2020-07-24 18:35:49.007] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-07-24 18:35:49.007] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2020-07-24 18:35:49.013] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-07-24 18:35:49.013] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-07-24 18:35:49.068] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-07-24 18:35:49.068] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-07-24 18:35:50.853] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onLanguage:json"}
+[2020-07-24 18:35:50.854] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-07-24 18:35:51.193] [exthost] [info] ExtensionService#_doActivateExtension eg2.vscode-npm-script {"startup":false,"extensionId":{"value":"eg2.vscode-npm-script","_lower":"eg2.vscode-npm-script"},"activationEvent":"onLanguage:json"}
+[2020-07-24 18:35:51.193] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/eg2.vscode-npm-script-0.3.12/dist/extension
+[2020-07-24 18:35:51.196] [exthost] [info] ExtensionService#_doActivateExtension mongodb.mongodb-vscode {"startup":false,"extensionId":{"value":"mongodb.mongodb-vscode","_lower":"mongodb.mongodb-vscode"},"activationEvent":"onLanguage:json"}
+[2020-07-24 18:35:51.196] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/mongodb.mongodb-vscode-0.1.0/dist/extension.js
+[2020-07-24 18:35:53.385] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-24 18:35:53.385] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-07-24 18:35:53.416] [exthost] [info] eager extensions activated
+[2020-07-24 18:39:37.604] [exthost] [info] extension host started
+[2020-07-24 18:39:37.676] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2020-07-24 18:39:37.676] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/aaron-bond.better-comments-2.1.0/out/extension
+[2020-07-24 18:39:37.681] [exthost] [info] ExtensionService#_doActivateExtension pucelle.vscode-css-navigation {"startup":false,"extensionId":{"value":"pucelle.vscode-css-navigation","_lower":"pucelle.vscode-css-navigation"},"activationEvent":"onLanguage:plaintext"}
+[2020-07-24 18:39:37.681] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/pucelle.vscode-css-navigation-1.9.0/client/out/extension
+[2020-07-24 18:39:37.719] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-07-24 18:39:37.719] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-07-24 18:39:37.722] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-07-24 18:39:37.723] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-07-24 18:39:37.742] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-24 18:39:37.742] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-07-24 18:39:37.782] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-07-24 18:39:37.782] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-07-24 18:39:37.795] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-07-24 18:39:37.795] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-07-24 18:39:37.800] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-07-24 18:39:37.800] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-07-24 18:39:37.816] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-07-24 18:39:37.816] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-07-24 18:39:37.817] [exthost] [info] ExtensionService#_doActivateExtension Atishay-Jain.All-Autocomplete {"startup":true,"extensionId":{"value":"Atishay-Jain.All-Autocomplete","_lower":"atishay-jain.all-autocomplete"},"activationEvent":"*"}
+[2020-07-24 18:39:37.817] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/atishay-jain.all-autocomplete-0.0.23/dist/extension
+[2020-07-24 18:39:37.820] [exthost] [info] ExtensionService#_doActivateExtension chenxsan.vscode-standardjs {"startup":true,"extensionId":{"value":"chenxsan.vscode-standardjs","_lower":"chenxsan.vscode-standardjs"},"activationEvent":"*"}
+[2020-07-24 18:39:37.820] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/chenxsan.vscode-standardjs-1.3.0/client/out/extension
+[2020-07-24 18:39:37.851] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2020-07-24 18:39:37.851] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/christian-kohler.path-intellisense-2.2.1/out/extension.js
+[2020-07-24 18:39:37.868] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-07-24 18:39:37.868] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-07-24 18:39:37.883] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-07-24 18:39:37.883] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/dbaeumer.vscode-eslint-2.1.8/client/out/extension
+[2020-07-24 18:39:37.896] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2020-07-24 18:39:37.896] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/formulahendry.auto-close-tag-0.5.8/out/src/extension
+[2020-07-24 18:39:37.897] [exthost] [info] ExtensionService#_doActivateExtension hbenl.vscode-test-explorer {"startup":true,"extensionId":{"value":"hbenl.vscode-test-explorer","_lower":"hbenl.vscode-test-explorer"},"activationEvent":"*"}
+[2020-07-24 18:39:37.898] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/hbenl.vscode-test-explorer-2.19.1/out/main.js
+[2020-07-24 18:39:37.914] [exthost] [info] ExtensionService#_doActivateExtension ionutvmi.path-autocomplete {"startup":true,"extensionId":{"value":"ionutvmi.path-autocomplete","_lower":"ionutvmi.path-autocomplete"},"activationEvent":"*"}
+[2020-07-24 18:39:37.914] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/ionutvmi.path-autocomplete-1.15.0/out/src/extension
+[2020-07-24 18:39:37.921] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-07-24 18:39:37.921] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/pkief.material-icon-theme-4.2.0/dist/extension
+[2020-07-24 18:39:37.933] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-07-24 18:39:37.933] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-07-24 18:39:38.286] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2020-07-24 18:39:38.286] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/streetsidesoftware.code-spell-checker-1.9.0/dist/extension
+[2020-07-24 18:39:38.325] [exthost] [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode {"startup":true,"extensionId":{"value":"TabNine.tabnine-vscode","_lower":"tabnine.tabnine-vscode"},"activationEvent":"*"}
+[2020-07-24 18:39:38.326] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/tabnine.tabnine-vscode-2.8.11/out/extension
+[2020-07-24 18:39:38.340] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"extensionId":{"value":"Zignd.html-css-class-completion","_lower":"zignd.html-css-class-completion"},"activationEvent":"*"}
+[2020-07-24 18:39:38.340] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2020-07-24 18:39:39.080] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-07-24 18:39:39.080] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2020-07-24 18:39:39.103] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-07-24 18:39:39.103] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-07-24 18:39:39.223] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-07-24 18:39:39.223] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-07-24 18:39:41.892] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-24 18:39:41.892] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-07-24 18:39:41.924] [exthost] [info] eager extensions activated
+[2020-07-24 18:39:42.342] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2020-07-24 18:39:42.342] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-07-24 18:39:42.359] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2020-07-24 18:39:42.359] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/markdown-language-features/dist/extension
+[2020-07-24 18:39:42.399] [exthost] [info] ExtensionService#_doActivateExtension hnw.vscode-auto-open-markdown-preview {"startup":false,"extensionId":{"value":"hnw.vscode-auto-open-markdown-preview","_lower":"hnw.vscode-auto-open-markdown-preview"},"activationEvent":"onLanguage:markdown"}
+[2020-07-24 18:39:42.399] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/hnw.vscode-auto-open-markdown-preview-0.0.4/out/src/extension
+[2020-07-24 18:39:42.401] [exthost] [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one {"startup":false,"extensionId":{"value":"yzhang.markdown-all-in-one","_lower":"yzhang.markdown-all-in-one"},"activationEvent":"onLanguage:markdown"}
+[2020-07-24 18:39:42.401] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/yzhang.markdown-all-in-one-3.1.0/dist/extension
+[2020-07-24 18:39:43.236] [exthost] [error] [yzhang.markdown-all-in-one] provider FAILED
+[2020-07-24 18:39:43.260] [exthost] [error] TypeError: Cannot read property 'document' of undefined
+    at f (/home/immanuwel/.vscode/extensions/yzhang.markdown-all-in-one-3.1.0/dist/extension.js:1:266888)
+    at m (/home/immanuwel/.vscode/extensions/yzhang.markdown-all-in-one-3.1.0/dist/extension.js:1:263964)
+    at g (/home/immanuwel/.vscode/extensions/yzhang.markdown-all-in-one-3.1.0/dist/extension.js:1:265680)
+    at v.provideCodeLenses (/home/immanuwel/.vscode/extensions/yzhang.markdown-all-in-one-3.1.0/dist/extension.js:1:268444)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:666:744
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:761
+    at new Promise (<anonymous>)
+    at Object.t.asPromise (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:733)
+    at _.provideCodeLenses (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:666:715)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:687:816
+    at K._withAdapter (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:686:499)
+    at K.$provideCodeLenses (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:687:794)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:799:953)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-24 19:56:26.686] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/immanuwel/ANGULAR/ANG-Projects/defiOpenclassroom/~vscode-root' is in submodule 'defiOpenclassroom'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-07-24 19:56:26.686] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/immanuwel/ANGULAR/ANG-Projects/defiOpenclassroom/~vscode-root' is in submodule 'defiOpenclassroom'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-07-24 19:56:26.686] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/immanuwel/ANGULAR/ANG-Projects/defiOpenclassroom/~vscode-root' is in submodule 'defiOpenclassroom'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-07-24 19:56:26.686] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/immanuwel/ANGULAR/ANG-Projects/defiOpenclassroom/~vscode-root' is in submodule 'defiOpenclassroom'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-07-24 19:56:26.686] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/immanuwel/ANGULAR/ANG-Projects/defiOpenclassroom/~vscode-root' is in submodule 'defiOpenclassroom'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-07-24 19:56:26.686] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/immanuwel/ANGULAR/ANG-Projects/defiOpenclassroom/~vscode-root' is in submodule 'defiOpenclassroom'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-07-24 19:56:26.686] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/immanuwel/ANGULAR/ANG-Projects/defiOpenclassroom/~vscode-root' is in submodule 'defiOpenclassroom'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-07-24 19:56:26.686] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/immanuwel/ANGULAR/ANG-Projects/defiOpenclassroom/~vscode-root' is in submodule 'defiOpenclassroom'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-07-24 19:56:26.686] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/immanuwel/ANGULAR/ANG-Projects/defiOpenclassroom/~vscode-root' is in submodule 'defiOpenclassroom'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-07-24 19:56:26.686] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/immanuwel/ANGULAR/ANG-Projects/defiOpenclassroom/~vscode-root' is in submodule 'defiOpenclassroom'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-07-24 19:56:26.686] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/immanuwel/ANGULAR/ANG-Projects/defiOpenclassroom/~vscode-root' is in submodule 'defiOpenclassroom'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-07-24 19:56:26.686] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/immanuwel/ANGULAR/ANG-Projects/defiOpenclassroom/~vscode-root' is in submodule 'defiOpenclassroom'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-07-24 19:56:26.686] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/immanuwel/ANGULAR/ANG-Projects/defiOpenclassroom/~vscode-root' is in submodule 'defiOpenclassroom'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-07-24 19:56:26.686] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/immanuwel/ANGULAR/ANG-Projects/defiOpenclassroom/~vscode-root' is in submodule 'defiOpenclassroom'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-07-24 19:56:26.686] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/immanuwel/ANGULAR/ANG-Projects/defiOpenclassroom/~vscode-root' is in submodule 'defiOpenclassroom'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-07-24 19:56:26.686] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/immanuwel/ANGULAR/ANG-Projects/defiOpenclassroom/~vscode-root' is in submodule 'defiOpenclassroom'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-07-24 19:56:26.686] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/immanuwel/ANGULAR/ANG-Projects/defiOpenclassroom/~vscode-root' is in submodule 'defiOpenclassroom'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-07-24 19:56:26.686] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/immanuwel/ANGULAR/ANG-Projects/defiOpenclassroom/~vscode-root' is in submodule 'defiOpenclassroom'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2020-07-24 19:56:26.686] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/immanuwel/ANGULAR/ANG-Projects/defiOpenclassroom/~vscode-root' is in submodule 'defiOpenclassroom'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
