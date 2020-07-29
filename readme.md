@@ -1,4 +1,4 @@
-# :rose: PROJECTS WITH ANGULAR FRAMEWORKS :rose:
+# :rose: PROJECTS WITH ANGULAR FRAMEWORK :rose:
 
 ___
 
