@@ -7,4 +7,6 @@ ___
 ![test](gifs/like.gif)
 ___
 
->devbyJESUS
+# BASIC TODO LIST 
+
+![test](gifs/todo.gif)
